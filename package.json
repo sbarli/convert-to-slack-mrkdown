@@ -1,0 +1,9 @@
+{
+  "name": "convert-to-slack-mrkdwn",
+  "version": "1.0.0",
+  "description": "convert to Slack mrkdown flavour",
+  "main": "index.js",
+  "author": "sbarli",
+  "license": "MIT",
+  "private": false
+}
